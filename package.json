@@ -1,19 +1,19 @@
 {
-  "name": "grs-action",
-  "version": "0.1.0",
-  "homepage": "https://github.com/UlyssesZh/grs-action",
+  "name": "grs-action-afk",
+  "version": "0.1.1",
+  "homepage": "https://github.com/Jacobus-afk/grs-action",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/UlyssesZh/grs-action.git"
+    "url": "git+https://github.com/Jacobus-afk/grs-action.git"
   },
   "bugs": {
-    "url": "https://github.com/UlyssesZh/grs-action/issues",
-    "email": "ulysseszhan@gmail.com"
+    "url": "https://github.com/Jacobus-afk/grs-action/issues",
+    "email": ""
   },
   "license": "MIT",
   "type": "module",
   "dependencies": {
-    "github-readme-stats": "github:anuraghazra/github-readme-stats",
+    "github-readme-stats": "github:Jacobus-afk/github-readme-stats",
     "query-string": "^9.1.1"
   }
 }
