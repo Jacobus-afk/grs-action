@@ -13,7 +13,7 @@
   "license": "MIT",
   "type": "module",
   "dependencies": {
-    "github-readme-stats": "github:Jacobus-afk/github-readme-stats",
+    "github-readme-stats": "github:Jacobus-afk/github-readme-stats#master",
     "query-string": "^9.1.1"
   }
 }
